@@ -1,9 +1,0 @@
-{
-  "type": "module",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "aterbot": "https://github.com/Team-IC/aterbot"
-  }
-}
