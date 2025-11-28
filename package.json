@@ -4,6 +4,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "aterbot": "^2.2.1"
+    "aterbot": "https://github.com/Team-IC/aterbot"
   }
 }
